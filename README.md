@@ -62,9 +62,9 @@ Website-QA-Chatbot/
 ---
 ## 🏷️ Screenshots
 
-![Chatbot Page](Screenshots/ss1.png)
-!(Screenshots/ss2.png)
-!(Screenshots/ss3.png)
+![Chatbot Page](screenshots/ss1.png)
+!(screenshots/ss2.png)
+!(screenshots/ss3.png)
 
 ## Frameworks and Libraries Used
 
