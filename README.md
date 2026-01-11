@@ -60,6 +60,11 @@ Website-QA-Chatbot/
    - Generates responses strictly from retrieved context
 
 ---
+## 🏷️ Screenshots
+
+![Chatbot Page](Screenshots/ss1.png)
+!(Screenshots/ss2.png)
+!(Screenshots/ss3.png)
 
 ## Frameworks and Libraries Used
 
